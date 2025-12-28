@@ -1,11 +1,11 @@
-# 🎬 CineFolio - Flutter Movie App
+# 🎬 MovieXI - Flutter Movie App
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![TMDb](https://img.shields.io/badge/TMDb-API-90CEA1?style=for-the-badge&logo=themoviedatabase&logoColor=black)
 
-**CineFolio** is a robust mobile application designed for movie enthusiasts. Built with **Flutter**, it leverages **The Movie Database (TMDb) API** for real-time data and **Firebase** for a seamless backend experience, allowing users to discover movies, manage favorites, and curate their personal watchlists.
+**MovieXI** is a robust mobile application designed for movie enthusiasts. Built with **Flutter**, it leverages **The Movie Database (TMDb) API** for real-time data and **Firebase** for a seamless backend experience, allowing users to discover movies, manage favorites, and curate their personal watchlists.
 
 This project demonstrates the implementation of Clean Architecture, State Management using Provider, and complex Backend integration.
 
