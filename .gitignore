@@ -1,0 +1,50 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+
+# IntelliJ / Android Studio
+*.iml
+.idea/
+
+# Visual Studio Code
+.vscode/
+
+# Flutter/Dart/Pub
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+
+# Android
+android/app/google-services.json   <--- PENTING: JANGAN UPLOAD INI KE PUBLIC REPO
+android/gradle/
+android/captures/
+android/gradlew
+android/gradlew.bat
+android/local.properties
+android/*.iml
+android/.gradle
+
+# iOS
+ios/Flutter/App.framework
+ios/Flutter/Flutter.framework
+ios/Flutter/Generated.xcconfig
+ios/Flutter/app.flx
+ios/Flutter/app.zip
+ios/Flutter/flutter_assets/
+ios/Runner/GoogleService-Info.plist  <--- PENTING: JANGAN UPLOAD INI
+ios/ServiceDefinitions.json
+ios/Runner/GeneratedPluginRegistrant.*
+
+# Exceptions to above rules.
+!/android/gradle/wrapper/gradle-wrapper.jar
